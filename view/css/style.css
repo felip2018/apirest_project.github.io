@@ -1,0 +1,15 @@
+ul li {
+    list-style: none;
+    float: left;
+    margin: 5px;
+}
+
+#loader {
+    width: 100%;
+    text-align: center;
+    background:rgba(255,255,255,0.5);
+}
+
+.characterImg {
+    border-radius: 30px;
+}
